@@ -1,2 +1,2 @@
 # rpo
-Windows Update MiniToll wrapper script
+Windows Update MiniTool wrapper script
