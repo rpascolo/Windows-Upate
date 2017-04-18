@@ -1,0 +1,13 @@
+Two options are available in order to use the Windows Update MiniTool Wrapper Script
+
+Option one :
+. copy WinUpdates.exe into the WUMT folder
+. Execute WinUpdates.exe
+
+Option two :
+.copy WinUpdates.exe into a folder of your PC
+. Execute WinUpdates.exe : 
+	- you will be asked to browse for the WUMT folder  
+	- the script copies itself into the WUMT folder
+	- a shortcut is created on the desktop
+	- WinUpdates.exe executes
